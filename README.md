@@ -1,15 +1,15 @@
 <h2> Hey there! I'm Aridane Martín. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I’m currently learning NextJs
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and computer programming.
-- 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in giving an awesome user experience to my clients.
-- ✍️ &nbsp; Listening and playing music bring me peace.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
+<p align="center">
+🔭 &nbsp; I’m currently learning NextJs
+🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+🎓 &nbsp; Studying Computer Science and computer programming.
+💼 &nbsp; Front-end web developer.
+🌱 &nbsp; Enthusiast in giving an awesome user experience to my clients.
+✍️ &nbsp; Listening and playing music bring me peace.
+☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+</p>
 <br>
 
 <h2 align="center">
