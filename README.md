@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Aridane Martín. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -11,18 +10,10 @@
 - ✍️ &nbsp; Listening and playing music bring me peace.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Html | CSS | Javascript   
-- 🌐 &nbsp; React + NextJs | Javascript Vanilla
-- 🛢 &nbsp; MySQL | Firebase | MongoDB
-- 🔧 &nbsp; i18n | Bootstrap | SEO | Focus on Performance | GoogleMyBussines | Git
-- 🖥 &nbsp; Figma | Illustrator | 
-
 <br>
 
 <h2 align="center">
-  Here are some technologies I use at work:
+  🛠 Here are some technologies I use at work:
 </h2>
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
