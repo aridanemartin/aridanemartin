@@ -35,4 +35,5 @@
 &nbsp; <a href="https://www.aridanemartin.dev" target="_blank" rel="noopener noreferrer"><strong>www.aridanemartin.dev</strong></a>  
 </h1>
 <h2 align="center">... or take a look of my code just right here!</h2>
-<img src="https://media1.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif?cid=ecf05e47r98tefdk55q7z1fdbnr7e86e72hhqkcyrw281zjd&rid=giphy.gif&ct=g" width="40" height="40" />
+<img src="https://media1.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif?cid=ecf05e47r98tefdk55q7z1fdbnr7e86e72hhqkcyrw281zjd&rid=giphy.gif&ct=g" width="480" height="270" />
+
