@@ -2,13 +2,12 @@
 
 <h3 align="center"> 👨🏻‍💻 About Me </h3>
 <p align="center">
-💼 &nbsp;I,m a Front-end web developer.
+💼 &nbsp;I,m a Front-end web developer / High school teacher.
 🎓 &nbsp;Studying Computer Science and computer programming.
 🔭 &nbsp;Currently learning NextJs
-🤔 &nbsp;Exploring new technologies and developing software solutions and quick hacks.
-🌱 &nbsp;Enthusiast in giving an awesome user experience to my clients.
-✍️ &nbsp;Listening and playing music bring me peace.
-☕ &nbsp;I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+🛩 &nbsp;Exploring new technologies and developing software solutions.
+🌱 &nbsp;Enthusiast in creating new oportunities and giving an awesome user experience to my clients.
+🎼 &nbsp;Listening and playing music bring me peace.
 </p>
 <br>
 
