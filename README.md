@@ -35,4 +35,4 @@
 &nbsp; <a href="https://www.aridanemartin.dev" target="_blank" rel="noopener noreferrer"><strong>www.aridanemartin.dev</strong></a>  
 </h1>
 <h2 align="center">... or take a look of my code just right here!</h2>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Js7cqIkpxFy0bILFFA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nasa-nasareactions-Js7cqIkpxFy0bILFFA">via GIPHY</a></p>
+<img src="https://giphy.com/embed/Js7cqIkpxFy0bILFFA" width="40" height="40" />
