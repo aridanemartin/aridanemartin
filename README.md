@@ -39,6 +39,6 @@
 
 <br/>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h2 align="center"> 🤝🏻 Connect with Me </h2>
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/iamaridane/" target="_blank" rel="noopener noreferrer"><strong>www.aridanemartin.dev</strong></a>  
