@@ -1,6 +1,6 @@
-<h2> Hey there! I'm Aridane Martín. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2 align="center"> Hey there! I'm Aridane Martín. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3 align="center"> 👨🏻‍💻 About Me </h3>
 <p align="center">
 🔭 &nbsp; I’m currently learning NextJs
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -34,3 +34,5 @@
 <h1 align="center">
 &nbsp; <a href="https://www.aridanemartin.dev" target="_blank" rel="noopener noreferrer"><strong>www.aridanemartin.dev</strong></a>  
 </h1>
+<h2 align="center">... or take a look of my code just right here!</h2>
+<h1>⬇⬇⬇</h1>
