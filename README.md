@@ -33,7 +33,7 @@
 
 <br/>
 
-<h2 align="center"> 🤝🏻 Connect with Me </h2>
+<h2 align="center">⬇ Connect with Me ⬇</h2>
 <h1 align="center">
 &nbsp; <a href="https://www.aridanemartin.dev" target="_blank" rel="noopener noreferrer"><strong>www.aridanemartin.dev</strong></a>  
 </h1>
