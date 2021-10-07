@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there! I'm Aridane Martín. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="300">
+<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="500">
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p align="left">
