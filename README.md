@@ -8,10 +8,10 @@
 🎓 &nbsp;Studying Computer Science and computer programming.<br>
 🔭 &nbsp;Currently learning NextJs.<br>
 🛩 &nbsp;Exploring new technologies and developing software solutions.<br>
-🌱 &nbsp;Enthusiast in creating new oportunities and giving an awesome user experience to my clients.<br>
+🌱 &nbsp;Enthusiast in creating new oportunities and giving an awesome <br> user experience to my clients.<br>
 🎼 &nbsp;Listening and playing music bring me peace.<br>
 </p>
-<h2 align="left"><a href="www.aridanemartin.dev">www.aridanemartin.dev</a></h2>
+<h2 align="left"><a href="www.aridanemartin.dev">👉 www.aridanemartin.dev</a></h2>
 <br>
 <br>
 
