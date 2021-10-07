@@ -2,16 +2,16 @@
 
 <img align="center" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="300">
 
-<h3 align="center"> 👨🏻‍💻 About Me </h3>
-<p align="center">
-💼 &nbsp;I,m a Front-end web developer / High school teacher.
-🎓 &nbsp;Studying Computer Science and computer programming.
-🔭 &nbsp;Currently learning NextJs
-🛩 &nbsp;Exploring new technologies and developing software solutions.
-🌱 &nbsp;Enthusiast in creating new oportunities and giving an awesome user experience to my clients.
-🎼 &nbsp;Listening and playing music bring me peace.
+<h3 align="left"> 👨🏻‍💻 About Me </h3>
+<p align="left">
+💼 &nbsp;I,m a Front-end web developer / High school teacher.<br>
+🎓 &nbsp;Studying Computer Science and computer programming.<br>
+🔭 &nbsp;Currently learning NextJs.<br>
+🛩 &nbsp;Exploring new technologies and developing software solutions.<br>
+🌱 &nbsp;Enthusiast in creating new oportunities and giving an awesome user experience to my clients.<br>
+🎼 &nbsp;Listening and playing music bring me peace.<br>
 </p>
-<h2 align="center"><a href="www.aridanemartin.dev">www.aridanemartin.dev</a></h2>
+<h2 align="left"><a href="www.aridanemartin.dev">www.aridanemartin.dev</a></h2>
 <br>
 <br>
 
