@@ -1,11 +1,11 @@
 <h2 align="center"> Hey there! I'm Aridane Martín. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="400">
+<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="350">
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p align="left">
 💼 &nbsp;I,m a Front-end web developer / High school teacher.<br>
-🎓 &nbsp;Studying Computer Science and computer programming.<br>
+🎓 &nbsp;Studying Computer Science and Web Development.<br>
 🔭 &nbsp;Currently learning NextJs.<br>
 🛩 &nbsp;Exploring new technologies and developing software solutions.<br>
 🌱 &nbsp;Enthusiast in creating new oportunities and giving an awesome user experience to my clients.<br>
