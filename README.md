@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there! I'm Aridane Martín. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="450">
+<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="400">
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p align="left">
@@ -8,7 +8,7 @@
 🎓 &nbsp;Studying Computer Science and computer programming.<br>
 🔭 &nbsp;Currently learning NextJs.<br>
 🛩 &nbsp;Exploring new technologies and developing software solutions.<br>
-🌱 &nbsp;Enthusiast in creating new oportunities and giving an awesome <br> user experience to my clients.<br>
+🌱 &nbsp;Enthusiast in creating new oportunities and giving an awesome user experience to my clients.<br>
 🎼 &nbsp;Listening and playing music bring me peace.<br>
 </p>
 <h2 align="left"><a href="www.aridanemartin.dev">👉 www.aridanemartin.dev</a></h2>
