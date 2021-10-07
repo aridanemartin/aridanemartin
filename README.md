@@ -1,5 +1,7 @@
 <h2 align="center"> Hey there! I'm Aridane Martín. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
+<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/_MG_2886.JPG" width="50">
+
 <h3 align="center"> 👨🏻‍💻 About Me </h3>
 <p align="center">
 💼 &nbsp;I,m a Front-end web developer / High school teacher.
