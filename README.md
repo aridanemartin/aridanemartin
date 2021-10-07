@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there! I'm Aridane Martín. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/_MG_2886.JPG" width="300">
+<img align="right" src="https://github.com/aridanemartin/aridanemartin/blob/main/Ari2.1.jpg" width="300">
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p align="left">
@@ -11,7 +11,7 @@
 🌱 &nbsp;Enthusiast in creating new oportunities and giving an awesome user experience to my clients.
 🎼 &nbsp;Listening and playing music bring me peace.
 </p>
-<h2 align="left"><a>www.aridanemartin.dev</a></h2>
+<h2 align="left"><a href="www.aridanemartin.dev">www.aridanemartin.dev</a></h2>
 <br>
 <br>
 
