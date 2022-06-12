@@ -22,8 +22,8 @@
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"> &nbsp;&nbsp;
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"> &nbsp;&nbsp;
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"> &nbsp;&nbsp;
-<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"> &nbsp;&nbsp;
-<img height="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> &nbsp;&nbsp;
+<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> &nbsp;&nbsp;
+<img height="60" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"> &nbsp;&nbsp;
 </p>
 <p align="center">
 <img height="70" src="https://github.com/aridanemartin/aridanemartin/blob/main/Next.png"> &nbsp;&nbsp;
