@@ -19,19 +19,22 @@
   🛠 Here are some technologies I use at work:
 </h2>
 <p align="center">
-<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"> &nbsp;&nbsp;
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"> &nbsp;&nbsp;
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"> &nbsp;&nbsp;
 <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> &nbsp;&nbsp;
 <img height="60" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"> &nbsp;&nbsp;
 </p>
 <p align="center">
-<img height="70" src="https://github.com/aridanemartin/aridanemartin/blob/main/Next.png"> &nbsp;&nbsp;
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"> &nbsp;&nbsp;
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"> &nbsp;&nbsp;
+<img height="70" src="https://github.com/aridanemartin/aridanemartin/blob/main/Next.png"> &nbsp;&nbsp;
 <img height="75" src="./ionic.png"> &nbsp;&nbsp;
-<img height="75" src="./RTL.png"> &nbsp;&nbsp;
 <!--img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"--> &nbsp;&nbsp;
+</p>
+<p align="center">
+<img height="75" src="./jest.png"> &nbsp;&nbsp;
+<img height="75" src="./RTL.png"> &nbsp;&nbsp;
+<img height="75" src="./playwright.png"> &nbsp;&nbsp;
 </p>
 
 <br/>
