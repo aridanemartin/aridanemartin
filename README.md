@@ -29,6 +29,8 @@
 <img height="70" src="https://github.com/aridanemartin/aridanemartin/blob/main/Next.png"> &nbsp;&nbsp;
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"> &nbsp;&nbsp;
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"> &nbsp;&nbsp;
+<img height="75" src="./ionic.png"> &nbsp;&nbsp;
+<img height="75" src="./RTL.png"> &nbsp;&nbsp;
 <!--img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"--> &nbsp;&nbsp;
 </p>
 
