@@ -38,9 +38,10 @@
 <h2 align="center">
   🛠 Here are some interesting libraries I use too:
 </h2>
+<p align="center">
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"> &nbsp;&nbsp;
-<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/zod.png"> &nbsp;&nbsp;
-
+<img height="75" src="./zod.png"> &nbsp;&nbsp;
+</p>
 <br/>
 
 <h2 align="center">⬇ Connect with Me ⬇</h2>
