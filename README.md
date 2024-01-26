@@ -26,7 +26,6 @@
 </p>
 <p align="center">
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"> &nbsp;&nbsp;
-<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"> &nbsp;&nbsp;
 <img height="70" src="https://github.com/aridanemartin/aridanemartin/blob/main/Next.png"> &nbsp;&nbsp;
 <img height="75" src="./ionic.png"> &nbsp;&nbsp;
 <!--img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"--> &nbsp;&nbsp;
@@ -36,6 +35,11 @@
 <img height="75" src="./RTL.png"> &nbsp;&nbsp;
 <img height="75" src="./playwright.png"> &nbsp;&nbsp;
 </p>
+<h2 align="center">
+  🛠 Here are some interesting libraries I use too:
+</h2>
+<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"> &nbsp;&nbsp;
+<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/zod.png"> &nbsp;&nbsp;
 
 <br/>
 
