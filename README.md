@@ -15,7 +15,7 @@
 <br>
 
 <h2 align="center">
-  🛠 Here are some technologies I use at work:
+  👷🏼 Here are some technologies I use at work:
 </h2>
 <p align="center">
 <img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"> &nbsp;&nbsp;
@@ -36,7 +36,7 @@
 <img height="75" src="./playwright.png"> &nbsp;&nbsp;
 </p>
 <h2 align="center">
-  🛠 Here are some interesting libraries / design systems I have been working with:
+  📚 Here are some interesting libraries/design systems I have been working with:
 </h2>
 <p align="center">
 <img height="75" src="./react-router.png"> &nbsp;&nbsp;
