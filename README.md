@@ -15,7 +15,7 @@
 <br>
 
 <h2 align="center">
-  👷🏼 Here are some technologies I use at work:
+  👷🏼 Here are some technologies I use on a daily basis:
 </h2>
 <p align="center">
 <img height="65" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"> &nbsp;&nbsp;
@@ -29,6 +29,7 @@
 <img height="70" src="https://github.com/aridanemartin/aridanemartin/blob/main/Next.png"> &nbsp;&nbsp;
 <img height="60" src="./Astro.png"> &nbsp;&nbsp;
 <img height="75" src="./ionic.png"> &nbsp;&nbsp;
+<img height="75" src="./sanity.png"> &nbsp;&nbsp;
 <!--img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"--> &nbsp;&nbsp;
 </p>
 <p align="center">
@@ -36,8 +37,12 @@
 <img height="75" src="./RTL.png"> &nbsp;&nbsp;
 <img height="75" src="./playwright.png"> &nbsp;&nbsp;
 </p>
+<p align="center">
+<img height="70" src="./docker.png"> &nbsp;&nbsp;
+<img height="70" src="./azure.png"> &nbsp;&nbsp;  
+</p>
 <h2 align="center">
-  📚 Here are some interesting libraries/design systems I have been working with:
+  📚 Here are some interesting libraries/tools/design systems I have been working with:
 </h2>
 <p align="center">
 <img height="75" src="./react-router.png"> &nbsp;&nbsp;
@@ -48,6 +53,7 @@
   
 </p>
 <br/>
+
 
 <h2 align="center">⬇ Connect with Me ⬇</h2>
 <h1 align="center">
