@@ -25,11 +25,11 @@
 <img height="60" src="./nodejslogo.png"> &nbsp;&nbsp;
 </p>
 <p align="center">
-<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"> &nbsp;&nbsp;
+<img height="80" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"> &nbsp;&nbsp;
 <img height="70" src="https://github.com/aridanemartin/aridanemartin/blob/main/Next.png"> &nbsp;&nbsp;
 <img height="60" src="./Astro.png"> &nbsp;&nbsp;
-<img height="75" src="./ionic.png"> &nbsp;&nbsp;
-<img height="75" src="./sanity.png"> &nbsp;&nbsp;
+<img height="65" src="./ionic.png"> &nbsp;&nbsp;
+<img height="65" src="./sanity.png"> &nbsp;&nbsp;
 <!--img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"--> &nbsp;&nbsp;
 </p>
 <p align="center">
