@@ -40,16 +40,17 @@
 <p align="center">
 <img height="70" src="./docker.png"> &nbsp;&nbsp;
 <img height="70" src="./azure.png"> &nbsp;&nbsp;  
+  <img height="70" src="./aws.png"> 
 </p>
 <h2 align="center">
   📚 Here are some interesting libraries/tools/design systems I have been working with:
 </h2>
 <p align="center">
-<img height="75" src="./react-router.png"> &nbsp;&nbsp;
-<img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"> &nbsp;&nbsp;
-<img height="75" src="./zod.png"> &nbsp;&nbsp;
-<img height="75" src="./i18n.png"> &nbsp;&nbsp;
-<img height="75" src="./material-ui.png"> &nbsp;&nbsp;
+<img height="50" src="./react-router.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"> &nbsp;&nbsp;
+<img height="50" src="./zod.png"> &nbsp;&nbsp;
+<img height="50" src="./i18n.png"> &nbsp;&nbsp;
+<img height="50" src="./material-ui.png"> &nbsp;&nbsp;
   
 </p>
 <br/>
