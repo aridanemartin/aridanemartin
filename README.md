@@ -5,7 +5,7 @@
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <p align="left">
 🌱 &nbsp;Based in Canary Islands, Spain.<br>
-💼 &nbsp;Working on an exciting project for a german company as a Front-end developer.<br>
+💼 &nbsp;Working on an exciting project for a Openbank as a Front-end developer.<br>
 🔭 &nbsp;Currently deepening in NodeJS architecture<br>
 🛩 &nbsp;Enthusiast in exploring new technologies and developing software solutions.<br> 
 🎼 &nbsp;Listening and playing music bring me peace.<br>
