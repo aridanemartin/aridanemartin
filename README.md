@@ -39,8 +39,8 @@
 </p>
 <p align="center">
 <img height="70" src="./docker.png"> &nbsp;&nbsp;
+<img height="60" src="./aws.png"> 
 <img height="70" src="./azure.png"> &nbsp;&nbsp;  
-  <img height="70" src="./aws.png"> 
 </p>
 <h2 align="center">
   📚 Here are some interesting libraries/tools/design systems I have been working with:
