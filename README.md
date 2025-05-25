@@ -19,7 +19,7 @@
 </h2>
 <p align="center">
 <img height="65" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png" alt="HTML"> &nbsp;&nbsp;
-<img height="65" src="./cssLogo" alt="CSS"> &nbsp;&nbsp;
+<img height="65" src="./cssLogo.png" alt="CSS"> &nbsp;&nbsp;
 <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> &nbsp;&nbsp;
 <img height="60" src="./typescriptLogo.png"> &nbsp;&nbsp;
 <img height="60" src="./nodejslogo.png"> &nbsp;&nbsp;
